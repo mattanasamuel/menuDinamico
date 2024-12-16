@@ -1,0 +1,19 @@
+
+vice menù;   DescrizioneMenù;            classe su cui invocare il metodo comprensiva di package          metodo da invocare        tipoPar1                            tipoPar2                    tipoPar3
+
+
+1;            Stampa codice fiscale;      ereditarietà.Persona;                                           getCodiceFiscale;              
+2;            Stampa persona;             ereditarietà.Persona;                                           toString
+4;            inserisci persona;          ereditarietà.Persone;                                           aggiungi;                ereditarietà.Persona
+5;            inserisci prodotto;         ereditarietà.Prodotto;                                          Prodotto;                Java.Lang.String;                    Java.Lang.String;             Java.Lang.Integer;
+
+
+
+
+5
+inserisci prodotto
+ereditarietà.Prodotto
+Prodotto
+Java.Lang.String
+Java.Lang.String
+Java.Lang.Integer
